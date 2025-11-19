@@ -8,7 +8,7 @@ public class Repo2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Repo2Application.class, args);
-        System.out.println("develop123");
+        System.out.println("develop123456");
     }
 
 }
